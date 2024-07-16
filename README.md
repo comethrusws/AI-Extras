@@ -1,4 +1,3 @@
-```
 # AI-Extras
 
 This repository houses small learning projects designed to enhance understanding of artificial intelligence concepts. These projects cover essential topics such as text preprocessing, machine learning algorithms, and much more!
@@ -12,5 +11,3 @@ This repository houses small learning projects designed to enhance understanding
 ## Acknowledgements 🙏
 
 A big thank you to [Mr. Sujan Sharma](https://github.com/SujanSB) for guiding us through these AI projects and inspiring our learning journey.
-
-```
